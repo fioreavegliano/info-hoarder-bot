@@ -21,13 +21,8 @@ const Header = () => {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm shadow-sm">
       <div className="container flex items-center justify-between h-16">
-        <a href="#home" onClick={() => scrollTo("#home")} className="flex items-center gap-2">
-          <span className="text-xl font-heading font-bold tracking-tight text-primary">
-            MAQUINARIA CNC LLC
-          </span>
-          <span className="hidden sm:inline text-xs text-muted-foreground">
-            Sheet Metal Cutting & Deformation
-          </span>
+        <a href="#home" onClick={() => scrollTo("#home")} className="flex items-center">
+          <img src="/images/logo.png" alt="Maquinaria CNC LLC" className="h-12" />
         </a>
 
         {/* Desktop nav */}
