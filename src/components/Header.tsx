@@ -23,10 +23,10 @@ const Header = () => {
       <div className="container flex items-center justify-between h-16">
         <a href="#home" onClick={() => scrollTo("#home")} className="flex items-center gap-2">
           <span className="text-xl font-heading font-bold tracking-tight text-primary">
-            MAQUINARIA CNC S.A.
+            MAQUINARIA CNC LLC
           </span>
           <span className="hidden sm:inline text-xs text-muted-foreground">
-            Corte y Deformación de chapa
+            Sheet Metal Cutting & Deformation
           </span>
         </a>
 

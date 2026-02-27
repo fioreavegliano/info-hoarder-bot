@@ -3,8 +3,8 @@ import { ChevronDown } from "lucide-react";
 
 const slides = [
   {
-    title: "Eficiencia y Calidad",
-    subtitle: "Somos Especialistas en Maquinaria para corte y deformación de chapa en frio.\nProbada trayectoria certifica nuestra experiencia.",
+    title: "Efficiency & Quality",
+    subtitle: "We are specialists in machinery for sheet metal cutting and deformation.\nProven track record certifies our experience.",
   },
   {
     title: "Instalación y Mantenimiento",

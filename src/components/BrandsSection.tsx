@@ -34,10 +34,10 @@ const BrandsSection = () => {
       <div className="dark-section py-16">
         <div className="container text-center">
           <h2 className="text-4xl font-heading font-bold mb-3">
-            Trabajamos con los Mejores
+            We Work with the Best
           </h2>
           <p className="text-lg text-industrial-dark-foreground/70">
-            MAQUINARIA CNC S.A. es Representante Oficial en Argentina de:
+            MAQUINARIA CNC LLC is an Official Representative of:
           </p>
         </div>
       </div>
