@@ -62,10 +62,6 @@ const Header = () => {
             ))}
           </nav>
 
-          {/* US Flag */}
-          <div className="hidden lg:block">
-            <img src="https://flagcdn.com/w80/us.png" alt="USA" className="h-10 rounded" />
-          </div>
 
           {/* Mobile toggle */}
           <button className="lg:hidden text-foreground" onClick={() => setIsOpen(!isOpen)}>
